@@ -22,4 +22,10 @@ public class ContactTest {
 	{
 		System.out.println("execute MC");
 	}
+	
+	@Test
+	public void deleteContact()
+	{
+		System.out.println("Just deletet the contact");
+	}
 }
