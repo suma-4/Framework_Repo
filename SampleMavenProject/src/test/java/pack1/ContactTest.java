@@ -15,7 +15,7 @@ public class ContactTest {
 		System.out.println(URL);
 		System.out.println(Username);
 		System.out.println(Password);
-	}
+	}  
 	
 	@Test(groups = "Regression Test")
 	public void modifyContact()
